@@ -1,0 +1,67 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("data:image/jpeg;base64,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");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#listaFilmes img {
+  margin: 10px;
+  max-height: 250px;
+}
+
+.form-wrapper {
+  margin: 0 0 15px;
+}
+
+.form-wrapper input {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 15px;
+}
+
+.form-wrapper button {
+  border: 0;
+  color: #ffffff;
+  background: #da1e26;
+  font-weight: bold;
+  padding: 15px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.form-wrapper button:hover {
+  opacity: 0.8;
+}
